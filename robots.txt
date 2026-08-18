@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://rksstudioup53.github.io/rksstudiogkp/sitemap.xml
